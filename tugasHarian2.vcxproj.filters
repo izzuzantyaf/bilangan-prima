@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="tugasHarian2.cpp">
+    <ClCompile Include="bilangan prima.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
