@@ -10,7 +10,8 @@ int main()
 	// input angka dari user
 	cout << "Masukkan angka : "; cin >> angka;
 
-
+	// inisialisasi variabel i dengan nilai 2
+	i = 2;
 
 	// jika angka inputan user lebih dari 1
 	if (angka>1)
